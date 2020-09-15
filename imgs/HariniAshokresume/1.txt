@@ -1,0 +1,82 @@
+Harini Ashok (+91) 7010808133 | aharini2008@gmail.com
+
+INTERNSHIP EXPERIENCE
+
+ 
+
+NVIDIA Graphics Pvt Ltd
+Deep Learning Research Intern , Jan 2020 —- May 2020
+
+¢ Worked on research in Generative Neural Networks with a focus on Image Reconstruction.
+¢ Built two Image inpainting models using GANs, using Tensorflow and PyTorch.
+
+Delium Technologies
+Computer Scientist Intern, May 2019 - July 2019
+
+¢ Worked on the core of Customer Insights — module of the company’s retail automation product “The Eye”.
+
+¢ Performed Data Analysis on Retail datasets to find correlation between a large number of products, and found links between customer
+churn and specific product availability along with customer buying patterns.
+
+Infotech Software Dealers Association
+Event Management Intern , November 2018 - January 2019
+
+¢ Interned as an Event Organizer for the international event - TechSummit 9 organized by ISODA.
+¢ — Responsible for handling logistics, co-ordinating sponsors and speakers for the event.
+
+Futurenet Technologies India Pvt Ltd.
+Data Analyst Intern, November 2017 - January 2018
+
+¢ Worked on visualization and prediction for Key Performance Indicators in sales.
+¢ Analysed company’s yearly sales data to find lead contributor to profits in various aspects.
+
+PROJECTS
+
+ 
+
+Resume Parser
+¢ Created a tool for analyzing resumes, that extracts the desired information and and inserts the information into a database.
+¢ Built a UI to facilitate browsing parsed resumes and uploading new resumes dynamically.
+
+Image Inpainting
+¢ Used Generative Adversarial Neural Networks to perform Semantic Image Inpainting.
+¢ Built an Inpainting model using DCGANSs and one using Deep Image Prior.
+
+Customer Segmentation for Retail Automation
+¢ Created a Python based script to perform Customer Segmentation using Recency, Frequency and Monetary Analysis.
+
+Automation of detection of choking in Air Filters
+¢ Smart India Hackathon 2019 finalist, Designed a working prototype using Python and Raspberry Pi to automate choking detection.
+
+¢ Created a website to notify choking percentage and visualize it over a time period. The prototype notifies by E-mail and text message,
+whenever air filter is about to be choked.
+
+Real time Object Detection with Voice Feedback
+¢ Created a Deep Learning model using YOLO (You-Only-Look-Once) algorithm that predicts the position of real time images fed through a
+webcam. It translates the object coordinates into voice feedback.
+
+EDUCATION
+
+ 
+
+Sri Venkateswara College of Engineering
+Bachelor's of Engineering in Computer Science and Engineering, May 2020
+
+¢ = CGPA: 9.25
+* 2019-2020 Secretary | ACM Student Chapter
+O Co-headed a team of 40 and organised technical symposium and department level events. Organized a 24 hour, inter-college college Hackathon. Raised
+funds over 50,000 INR.
+O Volunteered in organizing Webinars for women in Tech, an inter-college coding run last winter, seminars and guest lectures inside the college, on various
+topics.
+
+* 2018 — 2019 Secretary | Rotaract Club
+O Part of the mentoring team for the Communication and English skills program designed to help students with non-English primary course of instruction.
+
+SKILLS & PROGRAMMING LANGUAGES
+
+ 
+
+¢ Programming Languages: Python, R, C/C++, HTML/CSS, MySQL, Javascript
+¢ Packages: Tensorflow, PyTorch, Scikit Learn, Numpy
+¢ Web-frameworks: Django, Flask
+

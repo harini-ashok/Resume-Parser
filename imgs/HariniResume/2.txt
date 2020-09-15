@@ -1,0 +1,7 @@
+SKILLS & PROGRAMMING LANGUAGES
+
+* — Programming Languages: Python, R, C/C++, HTML/CSS, MySQL, Javascript
+* — Packages: Tensorflow, PyTorch, Scikit Learn, Numpy
+
+* —Web-frameworks: Django, Flask
+

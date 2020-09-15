@@ -1,0 +1,111 @@
+ 
+
+SUMMARY
+
+An aspiring individual who is passionate
+about understanding and solving problems,
+developing maintainable code, flourishing
+in an environment of ambiguity and
+delivering compelling presentations.
+
+AREAS OF INTEREST
+
+Product Development
+Presentation
+
+Data Analysis
+
+Client Coordination
+
+Project Management
+Dashboard/Report Generation
+
+EDUCATION
+
+BACHELOR OF ENGINEERING, COMPUTER
+SCIENCE
+SRI VENKATESWARA COLLEGE OF
+ENGINEERING
+
+2015 - 2019
+
+12TH, SSLC
+
+M.CT.M CHIDAMBARAM CHETTIYAR MAT. HR.
+
+SEC. SCHOOL
+2014 - 2015
+
+CONTACT
+
+(+91) 7299966880
+VARUNVIJAYMENON@GMAIL.COM
+CHENNAI
+
+EXPERIENCE
+
+PIXXON Al SOLUTIONS
+PYTHON DEVELOPER INTERN | JUN 2020 - PRESENT
+
+e Developed an NLP application from scratch which parsed
+resumes and displayed information based on required
+criteria.
+
+e Created and Managed and Optimized databases with
+techniques like indexing.
+
+DELIUM TECHNOLOGIES
+MARKETING STRATEGIST INTERN | DEC 2018 - JAN 2019//
+MAY 2019 - JULY 2019
+
+e Created intuitive blogs and visual content by understanding
+multiple retail businesses and balancing the requirements
+of the decision makers at both ends.
+
+e Created customised pitch improvements by addressing the
+personal and market needs of company clientele.
+
+e Made sales pitches through meetings, cold calls and emails.
+
+HTC -ITMR
+DATA ANALYST INTERN | NOV 2017 - JAN 2018
+
+e Responsible for defining and breaking down complex
+problem statements & identified methods to make it easily
+executable for developers.
+
+e Resulted in bringing life to three machine learning projects.
+
+PROJECTS
+
+CUSTOMER SEGMENTATION FOR RETAIL AUTOMATION
+
+e Created a Python based script to perform Customer
+Segmentation using Recency, Frequency and Monetary
+Analysis.
+
+MARKET BASKET ANALYSIS
+
+e Used Apiriori Algorithm for Association Mining.
+e Found items that are more likely to be bought alongside
+other items.
+
+DRONE USING REINFORCEMENT LEARNING
+
+e Designed a drone that auto stabilizes and detects crime
+e Using convolutional LSTM Deep Neural Network
+e The drone could stabilise while in free fall and assault
+
+crimes
+SKILLS
+e HTML e Python
+e CSS e R
+e MS OfficeSuite e Unit testing
+e VBA e Regression
+e SQL e Classification
+
+EXTRA-CURRICULAR ACTIVITIES
+
+e Athletics at SVCE e ACM at SVCE
+e Marathon Runner e Know-l at SVCE
+
